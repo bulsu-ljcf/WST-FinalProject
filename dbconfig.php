@@ -4,6 +4,7 @@ $dbusername = "root";
 $dbpassword = "";
 $dbname = "messi";
 
+
 try {
     $conn = new PDO("mysql:host=$dbservername;port=3306;dbname=$dbname", $dbusername, $dbpassword);
     $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
