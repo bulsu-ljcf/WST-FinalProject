@@ -76,7 +76,14 @@ Sportify is a full-stack PHP web application that serves as an online storefront
 
 ## Screenshots
 
-> *(Add screenshots of the following pages here)*
+![alt text](Screenshots/11d1d274-c9be-40a4-b42d-04615865210e.jpg) 
+![alt text](Screenshots/24f40544-8940-4afb-96ed-9c0dcf636f07.jpg) 
+![alt text](Screenshots/5248f350-8331-4b94-8dae-99367e878604.jpg) 
+![alt text](Screenshots/295137fa-dcdc-4fdc-bbd1-d6d0756defb2.jpg) 
+![alt text](Screenshots/a346a506-d0c3-4b3e-b1eb-3cee462c3c50.jpg) 
+![alt text](Screenshots/afd11c49-c12f-4893-ba4c-02a77ade346e.jpg) 
+![alt text](Screenshots/cbe5e2da-7a55-4b6e-90cb-99a00dbadf9f.jpg) 
+![alt text](Screenshots/f130a521-ceb2-4b1d-bfeb-006b47e6c38d.jpg)
 
 | Page | Description |
 |---|---|
@@ -118,11 +125,14 @@ sportify/
 
 ## Contributors
 
-| Name | Role |
-|---|---|
-| *(Your Name Here)* | Full-Stack Developer |
-| *(Team Member)* | UI/UX Design |
-| *(Team Member)* | Database & Backend |
+| Name |
+|---|
+| (Lyzander Jeptah C. Fabian)
+| (Benedict M. Mendoza)
+| (Ivan Matthew D. Sumilang)
+| (Yza Paula M. Pascua)
+| (Jean Fernando V. Orga)
+
 
 ---
 
